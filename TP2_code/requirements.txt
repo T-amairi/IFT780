@@ -1,0 +1,9 @@
+cython
+jupyterlab
+matplotlib
+numpy
+scikit-image
+pandas
+h5py
+tqdm
+torchvision

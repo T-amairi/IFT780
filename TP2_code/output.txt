@@ -1,0 +1,47 @@
+Data augmentation NOT activated!
+Files already downloaded and verified
+Files already downloaded and verified
+Training YourNet on cifar10 for 20 epochs
+Epoch: 1 of 20
+Validation loss 1.043
+Epoch: 2 of 20
+Validation loss 0.895
+Epoch: 3 of 20
+Validation loss 0.757
+Epoch: 4 of 20
+Validation loss 0.696
+Epoch: 5 of 20
+Validation loss 0.656
+Epoch: 6 of 20
+Validation loss 0.647
+Epoch: 7 of 20
+Validation loss 0.646
+Epoch: 8 of 20
+Validation loss 0.611
+Epoch: 9 of 20
+Validation loss 0.654
+Epoch: 10 of 20
+Validation loss 0.639
+Epoch: 11 of 20
+Validation loss 0.652
+Epoch: 12 of 20
+Validation loss 0.750
+Epoch: 13 of 20
+Validation loss 0.693
+Epoch: 14 of 20
+Validation loss 0.763
+Epoch: 15 of 20
+Validation loss 0.809
+Epoch: 16 of 20
+Validation loss 0.793
+Epoch: 17 of 20
+Validation loss 0.828
+Epoch: 18 of 20
+Validation loss 0.921
+Epoch: 19 of 20
+Validation loss 0.843
+Epoch: 20 of 20
+Validation loss 0.924
+Finished training.
+Figure(1000x500)
+Accuracy on the test set: 79.299 %

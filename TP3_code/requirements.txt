@@ -1,0 +1,20 @@
+# Base requirements
+jupyterlab
+jupyter
+torch
+torchvision
+torchinfo
+tqdm
+numpy
+matplotlib
+holoviews[recommended]
+umap-learn
+
+# cardiac-mri-autoencoders
+h5py
+torchmetrics
+
+# RNNs
+opencv-python
+pycocotools
+torchtext

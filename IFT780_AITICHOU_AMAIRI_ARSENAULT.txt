@@ -1,0 +1,12 @@
+Lien du repository git
+
+Equipe:
+AIT ICHOU Yoann – CIP : aity1101
+AMAIRI Tahar – CIP : amat0601
+ARSENAULT Pierre-Daniel – CIP : arsp2802
+
+Liens :
+
+https://depot.dinf.usherbrooke.ca/dinf/cours/h23/ift780/aity1101/projet_session_hiver
+
+git@depot.dinf.usherbrooke.ca:dinf/cours/h23/ift780/aity1101/projet_session_hiver.git
